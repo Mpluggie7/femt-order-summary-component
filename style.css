@@ -112,6 +112,7 @@ p {
 
 .changeLink:hover {
   color: var(--Bright-blue3);
+  text-decoration: none;
 }
 
 button {
